@@ -1,0 +1,16 @@
+requests
+gevent
+werkzeug
+gunicorn
+greenlet
+flask<2.0.0
+flask_cors
+flask_sqlalchemy
+flask_restless
+flask_restful
+sqlalchemy<1.4
+retrying
+pydantic
+setuptools
+orjson
+easyocr
