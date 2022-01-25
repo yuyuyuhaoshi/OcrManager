@@ -170,5 +170,5 @@ curl --location --request POST 'http://0.0.0.0:5000/api/v1/image/ocr/file' \
 ```
 > 在Postman中，请将 image_path 替换
 
-![示例](images/Postman示例.png)
+![示例](images/Postman示例1.png)
 
